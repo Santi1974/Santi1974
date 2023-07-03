@@ -1,7 +1,9 @@
 # Santiago Beneitez👋👨‍💻
 
 ## ⚡ Sobre Mi
-Programador junior enfocado en el desarrollo de la parte visual e interfaz de sitios web. Me apasiona la programación desde 2017 y disfruto trabajar en proyectos desafiantes donde pueda aplicar mis conocimientos. Siempre me mantengo actualizando mis habilidades y aprendiendo cosas nuevas.
+🇪🇸 Programador junior enfocado en el desarrollo de la parte visual e interfaz de sitios web. Me apasiona la programación desde 2017 y disfruto trabajar en proyectos desafiantes donde pueda aplicar mis conocimientos. Siempre me mantengo actualizando mis habilidades y aprendiendo cosas nuevas.
+
+🇺🇸 I'm a junior programmer with experience developing user interface for web apps. Since 2017, I have been immersed in the programming world and I enjoy working on challenging projects where I can apply my knowledge. I'm continuously updating my skills and acquiring new knowledge.
 
 ## 💻 Conocimientos
 
