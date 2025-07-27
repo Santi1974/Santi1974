@@ -35,6 +35,4 @@
   -Linkedin: www.linkedin.com/in/santiago-beneitez-143583217
 
   -Email: santiagobeneitez1974@gmail.com
-
-  -Numero: +54 261 609 7192
-
+  
